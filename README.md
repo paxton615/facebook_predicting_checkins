@@ -14,19 +14,19 @@ accuracy: location accuracy
 time: timestamp
 place_id: id of the business, this is the target you are predicting
 sample_submission.csv - a sample submission file in the correct format with random predictions
-<img src="pics/data_glimsp.png" width="800"> 
+<img src="pics/data_glimsp.png" width="600"> 
 
 ### * Navigating through the repository:
 
-#### [1. A Quick Knn baseline](https://github.com/paxton615/facebook_predicting_checkins/blob/master/facebook_predicting_check_ins.ipynb)
+#### [1. A Quick Knn Baseline](https://github.com/paxton615/facebook_predicting_checkins/blob/master/facebook_predicting_check_ins.ipynb)
 
-#### [2.improvement and better results]()
+#### [2. Improvements and better results---TBD]()
 
 
 ### * Aims:
 
 #### 1. Practice the whole process from EDA to score
-#### 2. dig deep in improving the scores
+#### 2. Dig deep in improving the scores
 
 
 
